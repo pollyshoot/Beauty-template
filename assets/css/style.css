@@ -332,6 +332,7 @@ a {
   justify-items: center;
   align-items: center;
   max-width: 255px;
+  height: max-content;
 }
 .recent__title {
   font-weight: 400;
